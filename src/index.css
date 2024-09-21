@@ -14,3 +14,9 @@ html {
   font-family: "Plus Jakarta Sans", sans-serif;
   font-size: 16px;
 }
+
+@media screen and (max-width: 400px) {
+  html {
+    font-size: 14px;
+  }
+}
