@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
 - Solution URL: [https://github.com/maryam-nasir/fm-notifications-page](https://github.com/maryam-nasir/fm-notifications-page)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://fm-notifications-page-xi.vercel.app/](https://fm-notifications-page-xi.vercel.app/)
 
 ## My process
 
